@@ -1,6 +1,6 @@
-SurrealDB offers several advantages over traditional relational databases like PostgreSQL and MySQL, particularly for developers looking to leverage the Rust ecosystem and modern database features. Below, I outline some key advantages and considerations for developers when opting for SurrealDB.
-
 ## Advantages of SurrealDB over PostgreSQL and MySQL
+
+SurrealDB offers several advantages over traditional relational databases like PostgreSQL and MySQL, particularly for developers looking to leverage the Rust ecosystem and modern database features. Below, are some key advantages and considerations for developers when opting for SurrealDB.
 
 ### 1. Rust-Native Implementation
 SurrealDB is written in Rust, which means it inherently benefits from Rust's memory safety and performance characteristics. This results in fewer runtime errors, better resource management, and overall improved stability and security.
